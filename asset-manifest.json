@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/prof-lucassilva/store-books/static/js/main.ac6d3871.js",
+    "static/js/787.750a4a54.chunk.js": "/prof-lucassilva/store-books/static/js/787.750a4a54.chunk.js",
+    "static/media/sacola.svg": "/prof-lucassilva/store-books/static/media/sacola.a1f2af1cb32c08ae75c7b23485161cbe.svg",
+    "static/media/perfil.svg": "/prof-lucassilva/store-books/static/media/perfil.d459471fbeda60d7f2a433b0f6b660de.svg",
+    "index.html": "/prof-lucassilva/store-books/index.html",
+    "static/media/logo.svg": "/prof-lucassilva/store-books/static/media/logo.9c54b187c810fdc3ecca29269446898f.svg",
+    "main.ac6d3871.js.map": "/prof-lucassilva/store-books/static/js/main.ac6d3871.js.map",
+    "787.750a4a54.chunk.js.map": "/prof-lucassilva/store-books/static/js/787.750a4a54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ac6d3871.js"
+  ]
+}
